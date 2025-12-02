@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Wherever you are",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-02T10:03:34.508589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "Noah Schnacky",
+      "has_synced": true,
+      "path": "select/01_Wherever_You_Are_Noah_Schnacky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wherever You Are - Live",
+      "artist": "Jack Ingram",
+      "has_synced": true,
+      "path": "select/02_Wherever_You_Are_-_Live_Jack_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wherever You Are (Live)",
+      "artist": "Jack Ingram",
+      "has_synced": true,
+      "path": "select/03_Wherever_You_Are_(Live)_Jack_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "New Arcades",
+      "has_synced": true,
+      "path": "select/04_Wherever_You_Are_New_Arcades.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Welcome To Wherever You Are",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/05_Welcome_To_Wherever_You_Are_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Welcome To Wherever You Are",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/06_Welcome_To_Wherever_You_Are_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/07_Wherever_You_Are_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/08_Wherever_You_Are_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "Ulrich Schnauss",
+      "has_synced": false,
+      "path": "select/09_Wherever_You_Are_Ulrich_Schnauss.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "Asia",
+      "has_synced": false,
+      "path": "select/10_Wherever_You_Are_Asia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/11_Wherever_You_Are_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be Wherever You Are (feat. Zach Callison)",
+      "artist": "Steven Universe feat. Zach Callison",
+      "has_synced": true,
+      "path": "select/12_Be_Wherever_You_Are_(feat._Zach_Callison)_Steven_Universe_feat._Zach_Callison.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Be Wherever You Are",
+      "artist": "Zach Callison",
+      "has_synced": true,
+      "path": "select/13_Be_Wherever_You_Are_Zach_Callison.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wherever You Are (Donde Quiera Que Estes)",
+      "artist": "Selena",
+      "has_synced": false,
+      "path": "select/14_Wherever_You_Are_(Donde_Quiera_Que_Estes)_Selena.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wherever You Are",
+      "artist": "Kodaline",
+      "has_synced": true,
+      "path": "select/15_Wherever_You_Are_Kodaline.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wherever you are",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Wherever_you_are_ONE_OK_ROCK.txt"
+    }
+  ]
+}
